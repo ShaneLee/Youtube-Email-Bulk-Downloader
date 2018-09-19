@@ -7,7 +7,7 @@ Associated video with this code: https://www.youtube.com/watch?v=VOuStFtMf7c
 
 You will need a few modules installed to run this
 
-pip install email '\n'
+pip install email              
 pip install HTMLParser
 pip install pytube
 
